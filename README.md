@@ -29,6 +29,4 @@ LinkedIn: https://www.linkedin.com/in/manojkumar-sa-726583374
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarashokan39-source&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarashokan39-source&layout=compact)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojkumarashokan39-source&theme=default)
